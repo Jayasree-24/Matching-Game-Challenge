@@ -11,5 +11,6 @@ A simple and interactive Memory Card Game built using HTML, CSS, and JavaScript.
 
 ## 🎮 Live Demo
 
-[Play the Memory Card Game] 
+- Play the Memory Card Game
+- https://scintillating-khapse-79bc76.netlify.app 
 
