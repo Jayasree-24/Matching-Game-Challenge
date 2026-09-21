@@ -1,0 +1,52 @@
+#gameboard{
+  /* display: grid;
+  grid-template-columns: repeat(4, 1fr);   
+  grid-template-rows: repeat(4, 1fr);
+  gap: 5px; */
+  height: 500px;
+  width: 500px;
+  display: flex;
+  flex-wrap: wrap; 
+
+  /*fr - means fraction of available space*/
+}
+
+#score{
+  border: 2px solid white;
+  border-radius: 5px;
+}
+
+#moves{
+  border: 2px solid white;
+  border-radius: 5px;
+}
+
+#timer{
+  border: 2px solid white;
+  border-radius: 5px;
+}
+
+h2{
+  color: yellow;
+  text-align: center;
+  font-size: 2em;
+  font-style: italic;
+}
+h3{
+  color: white;
+  font-size: 1.5em;
+}
+body{
+  background-image: url('images/background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  justify-content: center;
+}
+
+img{
+  height: 150px;
+  width: 100px;
+  margin: 5px;
+}
