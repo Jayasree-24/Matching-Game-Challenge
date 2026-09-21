@@ -7,7 +7,7 @@ A simple and interactive Memory Card Game built using HTML, CSS, and JavaScript.
 - 🔊 Flip, match, wrong-match, and winning sounds
 - 🏆 Score tracking
 - 🔢 Move counter
-- 🔄 Restart game
+- ⏳ Timer
 
 ## 🎮 Live Demo
 
